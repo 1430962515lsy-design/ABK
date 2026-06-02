@@ -157,9 +157,9 @@ jobs:
   get-manager:
     uses: ./.github/workflows/get-manager.yml
     secrets: inherit
-   # with:
-     # kernelsu_variant: ${{ inputs.kernelsu_variant }}
-     # kernelsu_branch: ${{ inputs.kernelsu_branch }}
+    with:
+      kernelsu_variant: ${{ inputs.kernelsu_variant }}
+      kernelsu_branch: ${{ inputs.kernelsu_branch }}
 
   # ==================== Android 12 - 5.10 构建 ====================
   build-a12-5-10:
