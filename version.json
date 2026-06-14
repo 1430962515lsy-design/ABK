@@ -1,0 +1,36 @@
+{
+  "stable": {
+    "normal": {
+      "versionName": "1.2.1",
+      "versionCode": 10021,
+      "downloadUrl": "https://github.com/xingguangcuican6666/ABK/releases/download/app_v1.2.1/abk-app-abk-apks.zip"
+    },
+    "dev": {
+      "versionName": "1.2.1-dev",
+      "versionCode": 10021,
+      "downloadUrl": "https://github.com/xingguangcuican6666/ABK/releases/download/app_v1.2.1/abk-app-dev-abk-apks.zip"
+    }
+  },
+  "unstable": {
+    "normal": {
+      "versionName": "1.2.2",
+      "versionCode": 10022,
+      "downloadUrl": "https://nightly.link/xingguangcuican6666/ABK/workflows/build-abk-app/dev/abk-apks.zip",
+      "publishedAt": "2026-06-14T06:57:08Z",
+      "buildTimestampEpochMillis": 1781420228000,
+      "sourceWorkflow": "Build ABK App",
+      "commitSha": "a9816c7fc6cb55adc5d589998f526ba74cd99426",
+      "runId": 27491256534
+    },
+    "dev": {
+      "versionName": "1.2.2",
+      "versionCode": 10022,
+      "downloadUrl": "https://nightly.link/xingguangcuican6666/ABK/workflows/build-abk-app-dev/dev/abk-apks.zip",
+      "publishedAt": "2026-06-14T06:57:09Z",
+      "buildTimestampEpochMillis": 1781420229000,
+      "sourceWorkflow": "Build ABK App Dev",
+      "commitSha": "a9816c7fc6cb55adc5d589998f526ba74cd99426",
+      "runId": 27491256537
+    }
+  }
+}
