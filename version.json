@@ -1,14 +1,14 @@
 {
   "stable": {
     "normal": {
-      "versionName": "1.2.7",
-      "versionCode": 10025,
-      "downloadUrl": "https://github.com/xingguangcuican6666/ABK/releases/download/app_v1.2.7/abk-app-abk-apks.zip"
+      "versionName": "1.2.8",
+      "versionCode": 10028,
+      "downloadUrl": "https://github.com/xingguangcuican6666/ABK/releases/download/app_v1.2.8/abk-app-abk-apks.zip"
     },
     "dev": {
-      "versionName": "1.2.7-dev",
-      "versionCode": 10025,
-      "downloadUrl": "https://github.com/xingguangcuican6666/ABK/releases/download/app_v1.2.7/abk-app-dev-abk-apks.zip"
+      "versionName": "1.2.8-dev",
+      "versionCode": 10028,
+      "downloadUrl": "https://github.com/xingguangcuican6666/ABK/releases/download/app_v1.2.8/abk-app-dev-abk-apks.zip"
     }
   },
   "unstable": {
